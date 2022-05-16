@@ -1,9 +1,9 @@
 {
-    "name": "Lasa-bot",
-    "description": "Lasa project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "name": "HISL-BOT",
+    "description": "Settings project - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.imgur.com/uFaJCxq.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "Asena", "bot", "api", "ai", "Lasa", "ai-bot", "LasaDev", "wabot", "wabot Lasa", "wp bot"],
-    "repository": "https://github.com/4IDTS/Lasa",
+    "repository": "https://github.com/whiteshadowofficial/settings",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
